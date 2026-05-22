@@ -6,7 +6,7 @@
 
 **Python CLI tool for extracting ecommerce product data and images from sitemap-listed product pages into organised folders, CSV, and JSON.**
 
-Hi, I’m Ming Tan. I built this as a practical Python CLI for turning ecommerce sitemap product pages into structured product data and organised image folders. It is designed for legitimate ecommerce migration, SEO audit, product-data review, and asset inventory workflows where a sitemap is the cleanest starting point.
+Hi, I’m Ming. I built this as a practical Python CLI for turning ecommerce sitemap product pages into structured product data and organised image folders. It is designed for legitimate ecommerce migration, SEO audit, product-data review, and asset inventory workflows where a sitemap is the cleanest starting point.
 
 ## What It Does
 
